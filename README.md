@@ -19,3 +19,7 @@ A Music Player built with Jetpack compose and media3/Exoplayer
 - Koin for Dependency Injection
 - Glide/Coil for Image Loading/Showing
 - Exoplayer etc.,
+
+## ScreenShots  
+
+![music_app 001](https://github.com/Mikkareem/music-player-media3/assets/56153409/81469108-9fee-4229-8157-17b7f068c61e)
