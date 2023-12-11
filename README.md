@@ -12,3 +12,10 @@ A Music Player built with Jetpack compose and media3/Exoplayer
 - PlayList
 - Favourites/Liked Songs
 - Detailing Mini Player to Different Screen
+
+## Technologies
+- Kotlin
+- Jetpack Compose
+- Koin for Dependency Injection
+- Glide/Coil for Image Loading/Showing
+- Exoplayer etc.,
